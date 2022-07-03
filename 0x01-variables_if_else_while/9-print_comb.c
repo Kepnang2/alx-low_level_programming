@@ -12,7 +12,7 @@ putchar(c);
 if (c != '9')
 {
 putchar(',');
-putchar('');
+putchar(' ');
 }
 }
 putchar('\n');
