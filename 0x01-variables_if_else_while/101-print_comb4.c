@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints all possible different combination of the three digits 0, 1,2
+ * main - prints all possible different combination of the three digits 
  * Return: Always (Success)
  */
 int main(void)
@@ -17,7 +17,7 @@ if (c < i && i < k)
 putchar(c);
 putchar(i);
 putchar(k);
-if (c != 7)
+if (c != '7')
 {
 putchar(',');
 putchar(' ');
