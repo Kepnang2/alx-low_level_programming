@@ -6,22 +6,22 @@
 int main(void)
 {
 int c, i;
-c = i = '0';
-for (c = '0'; c <= '9'; c++)
+for (c = 0; c <= 98; c++)
 {
-for (i = '0'; i <= '9'; i++)
+for (i = c + 1; i <= 99; i++)
 {
-putchar(c);
-putchar(i);
-if ((c != '9') || (c == '9' && i != '9'))
-{
+putchar((c / 10) + '0');
+putchar((c % 10) + '0');
+putchar(' ');
+putchar((i / 10) + '0');
+putchar((i % 10) + '0');
+if (c == 98 && i == 99)
+continue;
 putchar(',');
 putchar(' ');
 }
 }
-}
 putchar('\n');
-
 return (0);
 
 }
