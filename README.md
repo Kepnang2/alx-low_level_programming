@@ -1,2 +1,2 @@
-This repository tries to solve the second project on C - Variables, if, else, while
+This repository tries to solve the different tasks of 0x00 hello world
 
