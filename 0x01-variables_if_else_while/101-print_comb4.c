@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints all possible different combination of the three digits 
- * Return: Always (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -23,6 +23,7 @@ putchar(' ');
 }
 }
 putchar('\n');
+
 return (0);
 
 }
