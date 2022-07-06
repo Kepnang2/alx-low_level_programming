@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * time_table - prints the times table from 0 - 9.
- * Return: nothing
+ *time_table -> prints the times table from 0 - 9.
+ (*
+ * Return: Nothing.
  */
 void times_table(void)
 {
@@ -14,7 +15,7 @@ void times_table(void)
 			res = (i * j);
 			if (j != 0)
 			{
-				_putchar('j');
+				_putchar(',');
 				_putchar(' ');
 			}
 			if (res >= 10)
