@@ -6,4 +6,6 @@ I sometimes suffer from insomnia. And when I can't fall asleep, I play what I ca
 #Task 2
 10 x alphabet
 #Task 3
-Write a function that checks for lowercase character.
+Write a function that checks for lowercase character
+# Task 4
+isalpha-Write a function that checks for alphabetic character\\
