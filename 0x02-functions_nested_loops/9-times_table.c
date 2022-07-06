@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- *time_table -> prints the times table from 0 - 9.
- (*
- * Return: Nothing.
+ *times_table -> prints the 9 times table, starting with 0.
  */
 void times_table(void)
 {
@@ -31,6 +29,4 @@ void times_table(void)
 			else
 				_putchar((res % 10) + '0');
 		}
-		_putchar('\n');
-	}
-}
+		_putcha
