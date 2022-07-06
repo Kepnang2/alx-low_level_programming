@@ -5,3 +5,5 @@ The program should return 0.\\
 I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.\\
 #Task 2
 10 x alphabet
+#Task 3
+Write a function that checks for lowercase character.
