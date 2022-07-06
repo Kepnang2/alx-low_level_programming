@@ -17,3 +17,5 @@ Write a function that computes the absolute value of an integer.\\
 There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important.\\
 #Task 8
 Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.\\
+# Task 9
+Write a function that prints the 9 times table, starting with 0.\\
