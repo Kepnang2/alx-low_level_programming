@@ -15,3 +15,5 @@ Write a function that prints the sign of a number
 Write a function that computes the absolute value of an integer.\\
 #Task 7
 There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important.\\
+#Task 8
+Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.\\
