@@ -31,3 +31,5 @@ Nature made the natural numbers; All else is the work of women.\\
 Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line
 #Task 15
 write a program that finds and prints the sum of the even-valued terms, followed by a new line.\\
+#Task 16
+Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
