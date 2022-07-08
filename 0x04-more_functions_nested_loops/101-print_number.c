@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_number -  checks for checks for a digit (0 through 9).
  * @n: n -  Variable
@@ -30,6 +31,10 @@ void print_number(int n)
 		}
 		z = n;
 		while (z / b > 9)
+		{
+			b = b * 10;
+		}
+		while (b > 0)
 		{
 			m = z / b;
 			z = z % b;
