@@ -1,10 +1,11 @@
 #include "main.h"
+
 /**
  *print_line - checks for checks for a digit (0 through 9).
  *@n: n - Variable
  *Return: Always 0.
  */
- void print_line(int n)
+void print_line(int n)
 {
 	int x;
 
@@ -16,5 +17,4 @@
 		}
 	}
 	_putchar('\n');
-
 }
