@@ -6,7 +6,7 @@
  * @s: str input
  * Return: string in reverse
  */
-void print_rev(char *s);
+void print_rev(char *s)
 {
 	int fcounter = 0;
 	int i, n;
