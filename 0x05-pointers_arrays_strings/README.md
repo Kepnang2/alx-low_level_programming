@@ -8,3 +8,5 @@ This report, by its very length, defends itself against the risk of being read
 A function that prints a string, followed by a new line, to stdout.
 #Task 4
 A function that prints a string, in reverse, followed by a new line.
+#Task 5
+A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
