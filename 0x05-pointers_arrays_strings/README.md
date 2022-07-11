@@ -6,3 +6,5 @@ Don't swap horses in crossing a stream
 This report, by its very length, defends itself against the risk of being read
 #Task 3
 A function that prints a string, followed by a new line, to stdout.
+#Task 4
+A function that prints a string, in reverse, followed by a new line.
