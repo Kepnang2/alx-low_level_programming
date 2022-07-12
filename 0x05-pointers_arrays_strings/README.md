@@ -19,3 +19,9 @@ A function that prints n elements of an array of integers, followed by a new lin
 #Task 9
 Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.#Task 10
 Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+#Task 11
+Create a program that generates random valid passwords for the program 101-crackme
+You are allowed to use the standard library
+You don’t have to pass the betty-style tests (you still need to pass the betty-doc tests)
+man srand, rand, time
+gdb and objdump can help
