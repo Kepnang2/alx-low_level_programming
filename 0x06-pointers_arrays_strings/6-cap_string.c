@@ -6,7 +6,7 @@
  *
  * Return: capitalizes letters
  */
-har *cap_string(char *str)
+char *cap_string(char *str)
 {
 	int i;
 	int j;
