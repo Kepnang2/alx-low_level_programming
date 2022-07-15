@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
- * main - encode the magic number.
- *
- * return: Always 0 (Success).
+ * main - encode the magic number
  */
 
 int main(void)
