@@ -1,3 +1,3 @@
-#Task 11.
-Write a program that prints all possible different combinations of three digits.
-Numbers must be separated by ,, followed by a space
+#Task 12
+Write a program that prints all possible combinations of two two-digit numbers.
+The numbers should range from 0 to 99 
