@@ -62,6 +62,7 @@ void op_s(va_list form)
 
 void print_all(const char * const format, ...)
 {
+
 	va_list all;
 	unsigned int i, j;
 	char *separator = "";
@@ -91,6 +92,7 @@ void print_all(const char * const format, ...)
 		}
 		i++;
 	}
+
 	printf("\n");
 	va_end(all);
 }
